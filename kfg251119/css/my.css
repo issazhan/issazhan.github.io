@@ -1,0 +1,32 @@
+@media (max-width: 767.98px) {
+	.ftco-section {
+	    padding: 1em 0 !important;
+	}
+	footer .container {
+		text-align: center;
+	}
+	footer .container li {
+		display: inline-table;
+	}
+	.ftco-footer .ftco-heading-2::after {
+		display: none;
+	}
+}
+@media (min-width: 767.98px) {
+	.space {
+	    padding: 0 1.5em 0 1.5em;
+	}
+}
+
+/*.element_whis_svg_background {
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1850 1635" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="icon__cart"><path fill="#101010" d="M1254 1163l-1203 0c-26,0 -51,-25 -51,-51l0 -131c0,-23 22,-51 51,-51l1075 0c22,0 36,-13 44,-30l96 -192c4,-9 1,-12 -8,-12l-1207 0c-22,0 -51,-25 -51,-51l0 -131c0,-23 23,-51 51,-51l1298 0c27,0 46,-13 56,-33l200 -401c9,-18 20,-29 41,-29l182 0c19,0 29,7 18,29l-554 1111c-5,10 -19,23 -38,23z"/><circle fill="#101010" cx="207" cy="1453" r="181"/><circle fill="#101010" cx="1062" cy="1453" r="181"/></g></svg>');
+}
+*/
+
+.my-icon {
+	stroke:	#eac15a;
+	stroke-width: 15;
+	fill: transparent;
+	width: 80px;
+	height: 80px;
+}
